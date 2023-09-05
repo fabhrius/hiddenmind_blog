@@ -1,0 +1,32 @@
+2023-09-04T00:26:48+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\wamp64\www\hiddenmind\wp-includes\class-wp-hook.php:294
+Stack trace:
+#0 C:\wamp64\www\hiddenmind\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', true)
+#1 C:\wamp64\www\hiddenmind\wp-includes\plugin.php(565): WP_Hook->do_action(true)
+#2 C:\wamp64\www\hiddenmind\wp-cron.php(191): do_action_ref_array('analytics_track...', true)
+#3 {main}
+  thrown in C:\wamp64\www\hiddenmind\wp-includes\class-wp-hook.php on line 294
+
+2023-09-04T00:27:45+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\wamp64\www\hiddenmind\wp-includes\class-wp-hook.php:294
+Stack trace:
+#0 C:\wamp64\www\hiddenmind\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', true)
+#1 C:\wamp64\www\hiddenmind\wp-includes\plugin.php(565): WP_Hook->do_action(true)
+#2 C:\wamp64\www\hiddenmind\wp-cron.php(191): do_action_ref_array('analytics_track...', true)
+#3 {main}
+  thrown in C:\wamp64\www\hiddenmind\wp-includes\class-wp-hook.php on line 294
+
+2023-09-04T00:27:46+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\wamp64\www\hiddenmind\wp-includes\class-wp-hook.php:294
+Stack trace:
+#0 C:\wamp64\www\hiddenmind\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', true)
+#1 C:\wamp64\www\hiddenmind\wp-includes\plugin.php(565): WP_Hook->do_action(true)
+#2 C:\wamp64\www\hiddenmind\wp-cron.php(191): do_action_ref_array('analytics_track...', true)
+#3 {main}
+  thrown in C:\wamp64\www\hiddenmind\wp-includes\class-wp-hook.php on line 294
+
+2023-09-04T00:27:46+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\wamp64\www\hiddenmind\wp-includes\class-wp-hook.php:294
+Stack trace:
+#0 C:\wamp64\www\hiddenmind\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', true)
+#1 C:\wamp64\www\hiddenmind\wp-includes\plugin.php(565): WP_Hook->do_action(true)
+#2 C:\wamp64\www\hiddenmind\wp-cron.php(191): do_action_ref_array('analytics_track...', true)
+#3 {main}
+  thrown in C:\wamp64\www\hiddenmind\wp-includes\class-wp-hook.php on line 294
+
