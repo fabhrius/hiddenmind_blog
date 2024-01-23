@@ -1,0 +1,19 @@
+@startmindmap
+
+skin rose
+
+* Hiddenmind
+
+** English Version
+*** Chapter 1
+*** Chapter 2
+*** Chapter 3
+
+** Version Espanol
+*** Capitulo 1
+*** Capitulo 2
+*** Capitulo 3
+
+
+
+@endmindmap

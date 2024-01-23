@@ -1,0 +1,22 @@
+@startuml
+
+skin rose
+
+title FlipBookCreator
+
+
+class FlipBookCreator {
+  +String getBookString(ArrayString $arrayImagePaths);
+  -String addNavigationButtonsPanel();
+  -String addCoverSup();
+  -String addCoverInf();
+  -String addJavaScriptLibrary();
+  -String addBookConfiguration();
+  -String addJavaScriptFunctionality();
+  -String addPages(ArrayString $arrayImagePaths);
+  -String addPage(String $imagePath);
+}
+
+
+@enduml
+

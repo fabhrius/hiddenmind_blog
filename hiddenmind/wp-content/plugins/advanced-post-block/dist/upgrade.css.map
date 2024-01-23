@@ -1,0 +1,1 @@
+{"version":3,"file":"upgrade.css","mappings":"AACI,gCAEI,cACA,kBAFA,eAGA","sources":["webpack://advanced-post-block/./src/upgrade.scss"],"sourcesContent":["#apbUpgradePage {\r\n    .fsUpgradePrice {\r\n        min-width: 100%;\r\n        height: 2050px;\r\n        max-height: 2050px;\r\n        overflow: hidden;\r\n    }\r\n}"],"names":[],"sourceRoot":""}

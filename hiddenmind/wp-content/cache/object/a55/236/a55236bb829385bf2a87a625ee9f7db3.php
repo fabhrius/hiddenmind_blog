@@ -1,0 +1,1 @@
+”U=e<?php exit; ?>a:1:{s:7:"content";s:226:"a:3:{s:29:"wplegalpages/wplegalpages.php";s:21:"delete_wp_legal_pages";s:55:"social-media-auto-publish/social-media-auto-publish.php";s:25:"smap_free_network_destroy";s:27:"blog2social/blog2social.php";s:15:"uninstallPlugin";}";}

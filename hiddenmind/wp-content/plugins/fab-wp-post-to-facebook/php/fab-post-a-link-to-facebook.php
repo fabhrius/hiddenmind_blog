@@ -8,7 +8,7 @@ function fab_publish_link_post_to_facebook($post_id) {
     $function_id = "FUNCTION -> fab_publish_link_post_to_facebook - ";
 
     // Check if this is not a revision.
-    if (!wp_is_post_revision($post_id)) {
+    if ((!wp_is_post_revision($post_id)) && has_category(FAB_TARGET_CATEGORY, $post_id)) {
 
         $post_link = get_permalink($post_id);  
 
