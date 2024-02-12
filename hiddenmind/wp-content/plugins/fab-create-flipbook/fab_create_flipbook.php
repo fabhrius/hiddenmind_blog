@@ -21,6 +21,7 @@ require_once(plugin_dir_path(__FILE__) . 'books/prologo/prologo.php');
 require_once(plugin_dir_path(__FILE__) . 'books/foreword/foreword.php');
 require_once(plugin_dir_path(__FILE__) . 'books/chapter1/chapter1.php');
 require_once(plugin_dir_path(__FILE__) . 'books/chapter2/chapter2.php');
+require_once(plugin_dir_path(__FILE__) . 'books/chapter3/chapter3.php');
 
 
 
